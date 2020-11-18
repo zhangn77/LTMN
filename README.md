@@ -12,4 +12,4 @@ Tone mapping operators (TMOs) can compress the range of high dynamic range (HDR)
 [Testing Data](https://drive.google.com/file/d/193T7IzEDj4iXJyAvyCsRO_dhJPdF12Pz/view?usp=sharing)
 
 ## Code
-The code and pre-trained weights is going to be released as soon as possible.
+The code and pre-trained weights are going to be released as soon as possible.
